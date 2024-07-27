@@ -31,7 +31,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img src="img/logo.png" alt="Logo" width="200" height="140" class="d-inline-block align-text-top">
+        <img src="img/logo.png" alt="Logo" width="auto" height="40rem" class="d-inline-block align-text-top">
       </a>
       <a class="navbar-brand" href="#">
         <h1><span class="text-primary">BM</span>Design</h1>
